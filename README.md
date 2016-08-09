@@ -1,2 +1,3 @@
 # nauczony.pl
 nauka
+grgregbergergerg
