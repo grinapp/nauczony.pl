@@ -1,0 +1,2 @@
+# nauczony.pl
+nauka
